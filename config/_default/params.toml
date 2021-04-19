@@ -15,10 +15,10 @@ day_night = true
 font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "The Internet of Me | by Jerad Acosta"
 
 # Default image for social sharing and search engines. Place image in `static/img/` folder and specify image name here.
-sharing_image = ""
+sharing_image = "boatronsquint.jpg"
 
 # Twitter username (without @). Used when a vistor shares your site on Twitter.
 twitter = "irjerad"
@@ -59,11 +59,12 @@ phone = "+1 909 631 1330"
 address = "2304 Azure ln, Vista, CA 92081"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00"""
+office_hours = """Holler Anytime  
+                  If it's worth a hoot,  
+                  I'll give one"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/irjerad" 
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -92,8 +93,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "37.4275"
-longitude = "-122.1697"
+latitude = "33.161460"
+longitude = "-117.224230"
 zoom = 15
 
 ############################
