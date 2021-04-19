@@ -40,8 +40,8 @@
 
 [[main]]
   parent = "dropdown"
-  name = "dropdown 1"
-  url = "#"
+  name = "Blog"
+  url = "https://says.jerad.xyz"
 
 [[main]]
   parent = "dropdown"
