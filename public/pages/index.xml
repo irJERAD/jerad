@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Jerad&#39;s place</title>
+    <link>https://jerad.xyz/pages/</link>
+    <description>Recent content in Pages on Jerad&#39;s place</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; {year}</copyright>
+    
+	    <atom:link href="https://jerad.xyz/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts</title>
+      <link>https://jerad.xyz/comment-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/comment-policy/</guid>
+      <description>&lt;h1 id=&#34;comment-policy&#34;&gt;Comment Policy&lt;/h1&gt;
+&lt;p&gt;Come one come all, now post the &lt;em&gt;&lt;strong&gt;considerate and appropriate&lt;/strong&gt;&lt;/em&gt; to the bottom of the page and do what you wish with the rest.&lt;/p&gt;
+&lt;p&gt;I use a free and generous service by Disqus so please adhere to our combined wishes of no vulgarity, political correctness, and - &lt;em&gt;for me&lt;/em&gt; - have it look like you at least read and are considerate what was written within its own context and limitations before taking off on something with a critique you find imperative or manifest destiny with you here as God&amp;rsquo;s messenger to reinstruct upon me and other readers.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

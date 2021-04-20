@@ -55,9 +55,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/irJERAD
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: facebook
+  icon_pack: fab
+  link: https://facebook.com/jeradacosta
 - icon: github
   icon_pack: fab
   link: https://github.com/irJERAD
@@ -73,8 +73,10 @@ email: "jsacosta1103@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
+- Teachers
 - Researchers
-- Visitors
+- Disc Golfers
+- Surfers
 ---
 
 Jerad Acosta's many tiers from a multidimensional background have coalesced to form powerfully robust and capable individual.

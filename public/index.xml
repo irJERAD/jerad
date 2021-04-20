@@ -66,5 +66,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Pages</title>
+      <link>https://jerad.xyz/pages/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/pages/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
