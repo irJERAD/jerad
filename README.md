@@ -3,8 +3,14 @@ The newest version of Jerad.xyz using a custom version of academia
 # Development  
 
 ## TODO  
-- Create Logo
-    - use picture pixel app to make small png
+- Theme
+    - [ ] Set to 1950's
+    - [ ] Create Archetype for post
+        - Start with default
+        - use features from other posts in the folder
+
+- Logo
+    - [ ] Create: use picture pixel app to make small png 
     - small picture (face), small image (boat, penguin) or initials?
 
 - Menu bar
@@ -13,23 +19,23 @@ The newest version of Jerad.xyz using a custom version of academia
 
 - Front page
     - certificates
-        - Lynda select
-        - Linkedin select
-        - Coursera select
+        - [ ] Lynda select
+        - [ ] Linkedin select
+        - [ ] Coursera select
 
 - Articles to write
-    - You are what you do / have done
+    - [ ] You are what you do / have done
         - list of things with pictures of fun stuff you loved having done
             - sail, time with family, bike, tennis, surf, etc ..
 
 - Articles to transfer
-    - from academic site
-    - from current jekyll site
-    - from blog site? says.jerad.xyz?
+    - [ ] from academic site
+    - [ ] from current jekyll site
+    - [ ] from blog site? says.jerad.xyz?
 
 - Projects to do 
-    - teaching / lectures
-        - sleep lesson
+    - Teaching / Lectures
+        - [ ] Sleep lesson
 
 # Customization  
 
