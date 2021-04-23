@@ -1,5 +1,6 @@
 ---
-title: Quotes | One-liners that sum up my paradigm
+title: "Quotes | One-liners that sum up my paradigm"
+subtitle: "I don't advise giving much influence to single quotes but I do think they can provide a insight of sorts into who I am and how I choose to live"
 
 # View.
 #   1 = List
