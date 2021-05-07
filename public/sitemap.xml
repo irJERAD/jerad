@@ -44,20 +44,26 @@
     <loc>https://jerad.xyz/talk/synthesizing/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://jerad.xyz/authors/admin/</loc>
+    <lastmod>2021-05-07T13:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/authors/</loc>
+    <lastmod>2021-05-07T13:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/post/dgg/</loc>
+    <lastmod>2021-05-07T13:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/post/</loc>
+    <lastmod>2021-05-07T13:16:00+00:00</lastmod>
+  </url><url>
     <loc>https://jerad.xyz/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/authors/admin/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/authors/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
@@ -73,9 +79,6 @@
   </url><url>
     <loc>https://jerad.xyz/post/jupyter/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/post/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
