@@ -7,10 +7,64 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 17 May 2021 15:10:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jerad.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>gtd</title>
+      <link>https://jerad.xyz/tags/gtd/</link>
+      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/gtd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kanban</title>
+      <link>https://jerad.xyz/tags/kanban/</link>
+      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/kanban/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notebook</title>
+      <link>https://jerad.xyz/tags/notebook/</link>
+      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/notebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>https://jerad.xyz/tags/notes/</link>
+      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>productivity</title>
+      <link>https://jerad.xyz/tags/productivity/</link>
+      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/productivity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scrum</title>
+      <link>https://jerad.xyz/tags/scrum/</link>
+      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/scrum/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Source Themes</title>
