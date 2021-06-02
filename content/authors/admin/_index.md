@@ -33,7 +33,7 @@ interests:
 - Information Retrieval
 
 education:
-  courses:
+  certificates:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012

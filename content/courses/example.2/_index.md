@@ -43,12 +43,12 @@ For example, if you delete this folder, you can remove the following from your m
 
 ```toml
 [[main]]
-  name = "Courses"
-  url = "courses/"
+  name = "Certificates"
+  url = "certificates/"
   weight = 50
 ```
 
-Or, if you are creating a software documentation site, you can rename the `courses` folder to `docs` and update the associated *Courses* menu configuration to:
+Or, if you are creating a software documentation site, you can rename the `certificates` folder to `docs` and update the associated *Certificates* menu configuration to:
 
 ```toml
 [[main]]
@@ -59,4 +59,4 @@ Or, if you are creating a software documentation site, you can rename the `cours
 
 ## Update the docs menu
 
-If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `courses/example/` folder, you should also rename the menu definitions in the front matter of files within `courses/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
+If you use the *docs* layout, note that the name of the menu in the front matter should be in the form `[menu.X]` where `X` is the folder name. Hence, if you rename the `certificates/example/` folder, you should also rename the menu definitions in the front matter of files within `certificates/example/` from `[menu.example]` to `[menu.<NewFolderName>]`.
