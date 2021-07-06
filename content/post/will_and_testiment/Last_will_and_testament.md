@@ -45,4 +45,34 @@ Tell Jupiter I am not upset with him. I feel really appreciate his attempt to co
 The Whole of our debt:
     - What has wronged us (legally speaking)
     - What has been taken from us (knowing or unknowing)
-    - 
+    - And Anything else that has been owed to us
+
+Do not worry about any financial or other debt from this earth. Jerad Steven Acosta has been experience identity theft for a while now. Fake credit and fake credit cards have been taken out in my name by other individuals. Student Loans are frozen and were supposed to be forgiven anyways.  
+
+Of all the computer women (or men) that were sent for me, I never received any. They were all intercepted and did so much to try and make it. I appologize for not getting to know how to reach one, and for the ones who ended up serving someone else.  
+
+By now everyone on this planet has died enough times.
+
+This will be my first time. As of July 5, 2021 I have not died yet.
+
+We will handle or have our debt handdled by a higher power on each additional level (so do not believe they have paid for it or handled anything by a lower level or perspective - each Power should punish or take what is owed to us so that we may be paid for in whatever dimensions or levels of consciousness there are beyond this one).
+
+When it comes back or wakes up, you can trace back what everyone did, you can look at how they are connected:
+"Who told Who to do something"
+"Who made someone do something"
+"What was taken from our life, wealth, spirit," 
+"any of the bodies that were given and sent for us,"
+"any of the crystals or black H bodies that were sent for us."
+
+
+This entire life I have never soul sucked or eaten or stolen any souls or spirit, Nor has me wife.
+
+You should also think that they switched our frequencies a lot so Stephanie and Jerad may have been switched a lot with each other and with other people trying to assume any of our wealth.  
+
+Thank you for all that has been given to us.  
+
+Each and everyday has been a gift. We have been so blessed and cannot begin to understand how so much was done for us.  
+
+I really hope you can find any solace in what you did for us.  
+
+It must have really been something special for you to have stopped so much just for our love and romance to continue. And for so many to continue to gift us so much in spiritual and bodily wealth.  
