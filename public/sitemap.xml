@@ -2,53 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jerad.xyz/courses/example/example1/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example.1/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example.2/example3/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example.1/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example.2/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example/</loc>
-    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example.2/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/courses/example.1/example4/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/talk/coding/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/talk/qualitative/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/talk/synthesizing/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jerad.xyz/authors/admin/</loc>
-    <lastmod>2021-05-17T15:10:00+00:00</lastmod>
+    <lastmod>2021-07-20T11:54:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/authors/</loc>
-    <lastmod>2021-05-17T15:10:00+00:00</lastmod>
+    <lastmod>2021-07-20T11:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/</loc>
+    <lastmod>2021-07-20T11:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/post/</loc>
+    <lastmod>2021-07-20T11:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/post/ending_the_story/</loc>
+    <lastmod>2021-07-20T11:54:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/categories/</loc>
+    <lastmod>2021-07-13T23:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/tags/help/</loc>
+    <lastmod>2021-07-13T23:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/tags/purpose/</loc>
+    <lastmod>2021-07-13T23:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/tags/self/</loc>
+    <lastmod>2021-07-13T23:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/tags/</loc>
+    <lastmod>2021-07-13T23:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/categories/the-answer/</loc>
+    <lastmod>2021-07-13T23:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/post/what_now/</loc>
+    <lastmod>2021-07-13T23:16:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/project/new-world-media/concept/</loc>
+    <lastmod>2021-07-12T17:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/project/</loc>
+    <lastmod>2021-07-12T17:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/tags/story/</loc>
+    <lastmod>2021-07-12T17:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/tags/story-telling/</loc>
+    <lastmod>2021-07-12T17:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/tags/story-time/</loc>
+    <lastmod>2021-07-12T17:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/categories/story-time/</loc>
+    <lastmod>2021-07-12T17:04:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jerad.xyz/post/will_and_testiment/last_will_and_testament/</loc>
+    <lastmod>2021-07-04T11:54:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/tags/gtd/</loc>
     <lastmod>2021-05-17T15:10:00+00:00</lastmod>
@@ -62,44 +71,23 @@
     <loc>https://jerad.xyz/tags/notes/</loc>
     <lastmod>2021-05-17T15:10:00+00:00</lastmod>
   </url><url>
-    <loc>https://jerad.xyz/post/</loc>
-    <lastmod>2021-05-17T15:10:00+00:00</lastmod>
-  </url><url>
     <loc>https://jerad.xyz/tags/productivity/</loc>
     <lastmod>2021-05-17T15:10:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/tags/scrum/</loc>
     <lastmod>2021-05-17T15:10:00+00:00</lastmod>
   </url><url>
-    <loc>https://jerad.xyz/post/my-notebook/</loc>
+    <loc>https://jerad.xyz/post/my_notebook/</loc>
     <lastmod>2021-05-17T15:10:00+00:00</lastmod>
   </url><url>
-    <loc>https://jerad.xyz/tags/</loc>
-    <lastmod>2021-05-17T15:10:00+00:00</lastmod>
+    <loc>https://jerad.xyz/post/evidence_locker/</loc>
+    <lastmod>2021-05-07T13:16:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/post/dgg/</loc>
     <lastmod>2021-05-07T13:16:00+00:00</lastmod>
   </url><url>
-    <loc>https://jerad.xyz/courses/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/post/jupyter/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+    <loc>https://jerad.xyz/post/wish_list/</loc>
+    <lastmod>2021-05-07T13:16:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
@@ -107,69 +95,28 @@
     <loc>https://jerad.xyz/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jerad.xyz/project/artificial-intelligence/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/tags/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/project/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/tags/human/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/project/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/tags/robotics/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/project/skin-cancer-ai/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://jerad.xyz/post/snail/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://jerad.xyz/tags/academia/</loc>
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jerad.xyz/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://jerad.xyz/post/broken-way/</loc>
   </url><url>
-    <loc>https://jerad.xyz/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <loc>https://jerad.xyz/post/state_secret/</loc>
   </url><url>
-    <loc>https://jerad.xyz/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://jerad.xyz/categories/</loc>
+    <loc>https://jerad.xyz/post/magic_had_its_way/magic_had_its_way/</loc>
   </url><url>
     <loc>https://jerad.xyz/pages/</loc>
   </url><url>
     <loc>https://jerad.xyz/comment-policy/</loc>
   </url><url>
+    <loc>https://jerad.xyz/publication_types/</loc>
+  </url><url>
+    <loc>https://jerad.xyz/publication/</loc>
+  </url><url>
     <loc>https://jerad.xyz/quotes/</loc>
+  </url><url>
+    <loc>https://jerad.xyz/talk/</loc>
   </url>
 </urlset>

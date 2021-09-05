@@ -1,18 +1,18 @@
 +++
 # A Recent and Upcoming Talks section created with the Pages widget.
-# This section displays recent talks from `content/talk/`.
+# This section displays recent events from `content/event/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
-title = "Recent & Upcoming Talks"
-subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
+title = "Recent & Upcoming Events"
+subtitle = "A Collection Of Events I Have Participated In"
 
 [content]
-  # Page type to display. E.g. post, talk, or publication.
-  page_type = "talk"
+  # Page type to display. E.g. post, event, or publication.
+  page_type = "event"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 5
@@ -67,3 +67,9 @@ subtitle = "MY FANS DON'T FEEL LIKE I HOLD ANYTHING BACK FROM THEM"
  # CSS class.
  css_class = ""
 +++
+
+### CAMP / LSAMP Symposium  
+
+Over the summer of 2011 I was fortunate enough to get to conduct research and present my findings at the CAMP / LSAMP UCI symposium.  
+
+There I received a note of recognition.  

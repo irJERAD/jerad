@@ -7,10 +7,64 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 17 May 2021 15:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Jul 2021 23:16:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jerad.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>help</title>
+      <link>https://jerad.xyz/tags/help/</link>
+      <pubDate>Tue, 13 Jul 2021 23:16:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/help/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>purpose</title>
+      <link>https://jerad.xyz/tags/purpose/</link>
+      <pubDate>Tue, 13 Jul 2021 23:16:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/purpose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>self</title>
+      <link>https://jerad.xyz/tags/self/</link>
+      <pubDate>Tue, 13 Jul 2021 23:16:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/self/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>https://jerad.xyz/tags/story/</link>
+      <pubDate>Mon, 12 Jul 2021 17:04:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story telling</title>
+      <link>https://jerad.xyz/tags/story-telling/</link>
+      <pubDate>Mon, 12 Jul 2021 17:04:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/story-telling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story time</title>
+      <link>https://jerad.xyz/tags/story-time/</link>
+      <pubDate>Mon, 12 Jul 2021 17:04:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/tags/story-time/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>gtd</title>
@@ -63,51 +117,6 @@
       <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
       
       <guid>https://jerad.xyz/tags/scrum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Source Themes</title>
-      <link>https://jerad.xyz/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/tags/source-themes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://jerad.xyz/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Demo</title>
-      <link>https://jerad.xyz/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>human</title>
-      <link>https://jerad.xyz/tags/human/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/tags/human/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotics</title>
-      <link>https://jerad.xyz/tags/robotics/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/tags/robotics/</guid>
       <description></description>
     </item>
     

@@ -7,44 +7,26 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 11:54:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jerad.xyz/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>https://jerad.xyz/talk/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/talk/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Posts</title>
       <link>https://jerad.xyz/post/</link>
-      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jul 2021 11:54:00 +0000</pubDate>
       
       <guid>https://jerad.xyz/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Certificates</title>
-      <link>https://jerad.xyz/courses/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <title>Projects</title>
+      <link>https://jerad.xyz/project/</link>
+      <pubDate>Mon, 12 Jul 2021 17:04:00 +0000</pubDate>
       
-      <guid>https://jerad.xyz/courses/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>https://jerad.xyz/publication/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/publication/</guid>
+      <guid>https://jerad.xyz/project/</guid>
       <description></description>
     </item>
     
@@ -58,20 +40,29 @@
     </item>
     
     <item>
-      <title>Projects</title>
-      <link>https://jerad.xyz/project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Pages</title>
       <link>https://jerad.xyz/pages/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://jerad.xyz/pages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://jerad.xyz/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://jerad.xyz/talk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jerad.xyz/talk/</guid>
       <description></description>
     </item>
     

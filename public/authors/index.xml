@@ -7,7 +7,7 @@
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
-    <lastBuildDate>Mon, 17 May 2021 15:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Jul 2021 11:54:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://jerad.xyz/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title></title>
       <link>https://jerad.xyz/authors/admin/</link>
-      <pubDate>Mon, 17 May 2021 15:10:00 +0000</pubDate>
+      <pubDate>Tue, 20 Jul 2021 11:54:00 +0000</pubDate>
       
       <guid>https://jerad.xyz/authors/admin/</guid>
       <description>&lt;p&gt;Jerad Acosta&amp;rsquo;s many tiers from a multidimensional background have coalesced to form powerfully robust and capable individual.&lt;/p&gt;
@@ -26,15 +26,6 @@
 &lt;p&gt;&lt;img src=&#34;../../img/certifacates.jpg&#34; alt=&#34;reviews&#34;&gt;&lt;/p&gt;
 &lt;p&gt;It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum. The point of using Lorem Ipsum. distracted by the readable content of a page.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Robert Ford</title>
-      <link>https://jerad.xyz/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://jerad.xyz/authors/robert-ford/</guid>
-      <description></description>
     </item>
     
   </channel>
