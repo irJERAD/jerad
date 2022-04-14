@@ -66,6 +66,8 @@ subtitle = "A Collection Of Events I Have Participated In"
  
  # CSS class.
  css_class = ""
+
+draft = true
 +++
 
 ### CAMP / LSAMP Symposium  

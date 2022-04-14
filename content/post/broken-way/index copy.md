@@ -8,7 +8,7 @@ tags: []
 categories: []
 date: "2021-07-11T12:20:00Z"
 featured: true
-draft: false
+draft: true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

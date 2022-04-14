@@ -8,7 +8,7 @@ tags: ["self","help","purpose"]
 categories: ["the answer"]
 date: "2021-07-13T23:16:00Z"
 featured: true
-draft: false
+draft: true
 ---
 
 ## Better Today

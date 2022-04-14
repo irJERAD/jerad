@@ -11,6 +11,8 @@ view: 3
 header:
   caption: "Gifted a day so they could steal a world"
   image: ""
+
+draft: true
 ---
 
 Magic was never a real part of my day until recently.  

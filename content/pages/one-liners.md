@@ -14,6 +14,8 @@ header:
   image: ""
 
 url: quotes
+
+draft: true
 ---
 
 ## WARNING: Before Using Please Read The Following:  
